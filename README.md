@@ -1,3 +1,4 @@
-# nextjs-oevdgk
+# Lambda Vercel Deploy
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-oevdgk)
+
+[Live Site](https://lambda-http-vercel-project.vercel.app/)
